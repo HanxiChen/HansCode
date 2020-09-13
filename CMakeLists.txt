@@ -1,0 +1,85 @@
+cmake_minimum_required(VERSION 3.16)
+project(Coursera)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Coursera main.cpp 
+Lecture1/Week4/Test4_1.cpp 
+Lecture1/Week4/Test4_2.cpp 
+Lecture1/Week4/Test4_3.cpp 
+Lecture1/Week5/App5_1.cpp 
+Lecture1/Week5/App5_2.cpp 
+Lecture1/Week5/App5_3.cpp 
+Lecture1/Week5/App5_4.cpp 
+Lecture1/Week5/Text5_1.cpp 
+Lecture1/Week5/Text5_2.cpp 
+Lecture1/Week5/Text5_3.cpp 
+Lecture1/Week5/Text5_4.cpp 
+Lecture1/Week5/Text5_5.cpp 
+Lecture1/Week6/Text6_1_1.cpp 
+Lecture1/Week6/Text6_2_1.cpp 
+Lecture1/Week6/Text6_2_2.cpp 
+Lecture1/Week6/Text6_2_3.cpp
+Lecture1/Week6/Text6_2_4.cpp
+Lecture1/Week6/Text6_2_5.cpp
+Lecture1/Week7/Text7_1_1.cpp
+Lecture1/Week7/Text7_1_2.cpp
+Lecture1/Week7/Text7_2_1.cpp
+Lecture1/Week7/Text7_2_2.cpp
+Lecture1/Week7/Text7_2_3.cpp
+Lecture1/Week7/Text7_2_4.cpp
+Lecture1/Week8/APP8_1.cpp
+Lecture1/Week8/APP8_2.cpp
+Lecture1/Week8/Text8_1_1.cpp
+Lecture1/Week8/Text8_2_1.cpp
+Lecture1/Week8/Text8_2_2.cpp
+Lecture1/Week8/Text8_2_3.cpp
+Lecture1/Week8/Text8_2_4.cpp
+Lecture1/Week8/Text8_2_5.cpp
+Lecture1/Week10/APP10_1.cpp
+Lecture1/Week10/APP10_2.cpp
+Lecture1/Week10/APP10_3.cpp
+Lecture1/Week11/App11_1.cpp
+Lecture1/Week11/App11_2.cpp
+Lecture1/Week11/App11_3.cpp
+Lecture1/Week10/Text10_1.cpp
+Lecture1/Week10/Text10_2.cpp
+Lecture1/Week10/Text10_3.cpp
+Lecture1/Week10/Text10_4.cpp
+Lecture1/Week10/Text10_5.cpp
+Lecture1/Week10/Text10_6.cpp
+Lecture1/Week10/Text10_7.cpp
+Lecture1/Week10/Text10_8.cpp
+Lecture1/FinalText/FinalText1_1.cpp
+        Lecture1/FinalText/FinalText1_2.cpp
+        Lecture1/FinalText/FinalText1_3.cpp
+        Lecture1/FinalText/FinalText1_4.cpp
+        Lecture1/FinalText/FinalText1_5.cpp
+        Lecture2/Week2/App2_2_1.cpp
+        Lecture2/Week2/App2_2_2.cpp
+        Lecture2/Week2/App2_2_3.cpp
+        Lecture2/Week2/Text2_2_1.cpp
+        Lecture2/Week2/Text2_2_2.cpp
+        Lecture2/Week2/Text2_2_3.cpp
+        Lecture2/Week2/Text2_2_4.cpp
+        Lecture2/Week2/Text2_2_5.cpp
+        Lecture2/Week2/Text2_2_6.cpp
+        Lecture2/Week3/App2_3_1.cpp
+        Lecture2/Week3/Text2_3_1.cpp
+        Lecture2/Week3/Text2_3_2.cpp
+        Lecture2/Week3/Text2_3_3.cpp
+        Lecture2/Week3/Text2_3_4.cpp
+        Lecture2/Week4/App2_4_1.cpp
+        Lecture2/Week4/Text2_4_1.cpp
+        Lecture2/Week4/Text2_4_2.cpp
+        Lecture2/Week4/Text2_4_3.cpp
+        Lecture2/Week6/Text2_6_1.cpp
+        Lecture2/Week6/Text2_6_2.cpp
+        Lecture2/Week6/Text2_6_3.cpp
+        Lecture2/FinalText/FinalText2_1.cpp
+        Lecture2/FinalText/FinalText2_2.cpp
+        Lecture2/FinalText/FinalText2_3.cpp
+        Lecture2/FinalText/FinalText2_4.cpp
+        Lecture3/Week2/App3_2_1.cpp
+        Lecture3/Week2/Text3_2_1.cpp
+        Lecture3/Week3/Text3_3_1.cpp Lecture3/Week3/Text3_3_2.cpp Lecture3/Week3/Text3_3_3.cpp Lecture3/Week4/Text3_4_1.cpp Lecture3/Week4/Text3_4_2.cpp Lecture3/Week4/Text3_4_3.cpp)
